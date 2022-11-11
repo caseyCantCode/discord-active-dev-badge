@@ -13,4 +13,14 @@ client.on("ready", (client) => {
   ]);
 });
 
+client.on("interactionCreate", async (interaction) => {
+  await interaction.deferReply();
+
+  if (interaction.commandName === "get-badge") {
+    interaction.followUp(
+      "Congrats you got the badge. Go back to the repo and follow the rest of the instructions"
+    );
+  }
+});
+
 client.login("");

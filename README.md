@@ -2,6 +2,8 @@
 
 howdy gamers, so you were on discord one day and noticed the new silly badge "Active Developer". and you thought to yourself "hey i want this virtual badge" well you came to the right place... This repo will get you the badge
 
+Make sure to give the repo a ⭐ if you used it!
+
 Instructions:
 1. Clone the repo doesn't matter how just clone it. *by clicking "Clone" and copying the git link or downloading the zip file*
 2. Make sure you have Node.JS installed. download here: https://nodejs.org/en/
